@@ -1,6 +1,6 @@
 # MouettesMuscles
 
-This is a Flutter application developed during two Claude Pro sessions. It's designed to be a completely local, private, free, and highly efficient fitness tracking app.
+This is a Flutter application developed during two Claude Pro sessions (~3h). It's designed to be a completely local, private, free, and highly efficient fitness tracking app.
 
 ## Features
 
