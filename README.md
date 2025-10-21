@@ -22,7 +22,7 @@ Learn how to customize this app using AI assistance (Gemini CLI) - no programmin
 - Use AI to explore and understand code
 - Find and fix UI bugs yourself
 
-**[Start the challenge here →](gemini.md)**
+**[Start the challenge here →](guide.md)**
 
 This is a hands-on way to learn mobile development, AI-assisted coding, and debugging - perfect for absolute beginners who want to get their hands dirty!
 
