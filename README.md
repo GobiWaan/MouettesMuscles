@@ -12,6 +12,20 @@ This is a Flutter application developed during two Claude Pro sessions (~3h). It
 
 The UI is not 100% finished, and there's always room for improvement! Feel free to propose changes and enhancements via pull requests.
 
+## The Gemini Challenge - For Beginners
+
+**Never coded before?** We've created a special challenge just for you!
+
+Learn how to customize this app using AI assistance (Gemini CLI) - no programming experience required. You'll:
+- Set up a complete development environment from scratch
+- Run the app on an Android emulator
+- Use AI to explore and understand code
+- Find and fix UI bugs yourself
+
+**[Start the challenge here →](gemini.md)**
+
+This is a hands-on way to learn mobile development, AI-assisted coding, and debugging - perfect for absolute beginners who want to get their hands dirty!
+
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
